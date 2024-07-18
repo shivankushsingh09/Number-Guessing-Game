@@ -1,2 +1,3 @@
 # Number-Guessing-Game
-The Number Guessing Game is an interactive C program where the player guesses a random number. Feedback is given for each guess: "Lower number, please" if too high, and "Higher number, please" if too low. The game displays the total attempts upon a correct guess, using loops and a random number generator for an engaging experience.
+
+The Number Guessing Game is a fun and interactive project built using C programming language. In this game, the program generates a random number, and the player's task is to guess it. The game provides feedback on each guess: if the guessed number is higher than the actual number, the program prompts "Lower number, please"; if it is lower, the program responds with "Higher number, please". Once the player guesses the correct number, the program displays the total number of guesses taken to arrive at the correct answer. The game utilizes loops and a random number generator to create an engaging user experience.

@@ -1,3 +1,3 @@
-## Number-Guessing-Game
+## Introduction
 
 The Number Guessing Game is a fun and interactive project built using C programming language. In this game, the program generates a random number, and the player's task is to guess it. The game provides feedback on each guess: if the guessed number is higher than the actual number, the program prompts "Lower number, please"; if it is lower, the program responds with "Higher number, please". Once the player guesses the correct number, the program displays the total number of guesses taken to arrive at the correct answer. The game utilizes loops and a random number generator to create an engaging user experience.

@@ -88,7 +88,7 @@ Feel free to contribute to this project by submitting issues or pull requests. I
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](#license) file for details.
 
 ## Contact
 

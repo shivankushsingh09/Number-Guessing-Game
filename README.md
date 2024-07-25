@@ -94,6 +94,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For any inquiries or feedback, please contact:
 
-Name: Shivankush Singh
-Email: your.email@example.com
-GitHub: github.com/yourusername
+- Name: Shivankush Singh
+- Email: your.email@example.com
+- GitHub: github.com/yourusername

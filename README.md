@@ -30,8 +30,8 @@ To compile and run the Number Guessing Game, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/number-guessing-game.git
-   cd number-guessing-game
+   git clone https://github.com/shivankushsingh09/Number-Guessing-Game.git
+   cd Number-Guessing-Game
 
    ```
 
@@ -96,4 +96,4 @@ For any inquiries or feedback, please contact:
 
 - Name: Shivankush Singh
 - Email: your.email@example.com
-- GitHub: github.com/yourusername
+- GitHub: https://github.com/shivankushsingh09

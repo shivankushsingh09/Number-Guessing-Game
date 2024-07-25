@@ -51,7 +51,7 @@ After compiling, you can run the executable:
 ./number_guessing_game
 ```
 
-Usage
+## Usage
 
 1. Start the Game:
 
@@ -69,7 +69,7 @@ Continue guessing until you either guess the correct number or run out of attemp
 
 If you guess the number correctly, the game will congratulate you and display the number of attempts. If you run out of attempts, the game will reveal the correct number and end.
 
-Example
+## Example
 
 Welcome to the Number Guessing Game!
 
@@ -82,13 +82,16 @@ Your guess is too high. Try again.
 Guess a number between 1 and 100: 62
 Congratulations! You guessed the number in 3 attempts.
 
-Contributing
+## Contributing
+
 Feel free to contribute to this project by submitting issues or pull requests. If you have suggestions for improvements or features, please open an issue to discuss them.
 
-License
+## License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+## Contact
+
 For any inquiries or feedback, please contact:
 
 Name: Shivankush Singh

@@ -27,28 +27,28 @@ A simple console-based Number Guessing Game developed in C. The game generates a
 
 To compile and run the Number Guessing Game, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/shivankushsingh09/Number-Guessing-Game.git
-   cd Number-Guessing-Game
+      git clone https://github.com/shivankushsingh09/Number-Guessing-Game.git
+      cd Number-Guessing-Game
 
    ```
 
-2. Compile the program:
+2. **Compile the program:**
 
 You can compile the program using gcc. Run the following command in the terminal:
 
-```
-gcc -o number_guessing_game number_guessing_game.c
+```bash
+   gcc -o number_guessing_game number_guessing_game.c
 ```
 
-3. Run the program:
+3. **Run the program:**
 
 After compiling, you can run the executable:
 
-```
-./number_guessing_game
+```bash
+   ./number_guessing_game
 ```
 
 ## Usage
@@ -88,7 +88,7 @@ Feel free to contribute to this project by submitting issues or pull requests. I
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](#license) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/shivankushsingh09/Number-Guessing-Game?tab=MIT-1-ov-file) file for details.
 
 ## Contact
 

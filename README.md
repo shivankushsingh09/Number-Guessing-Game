@@ -55,19 +55,19 @@ After compiling, you can run the executable:
 
 1. Start the Game:
 
-   When you run the program, it will prompt you to guess a number within a predefined range.
+   - When you run the program, it will prompt you to guess a number within a predefined range.
 
 2. Input Your Guess:
 
-   Enter your guess when prompted. The program will indicate whether your guess is too high or too low.
+   - Enter your guess when prompted. The program will indicate whether your guess is too high or too low.
 
 3. Try to Guess the Number:
 
-   Continue guessing until you either guess the correct number or run out of attempts.
+   - Continue guessing until you either guess the correct number or run out of attempts.
 
 4. Game Over:
 
-   If you guess the number correctly, the game will congratulate you and display the number of attempts. If you run out of attempts, the game will reveal the correct number and end.
+   - If you guess the number correctly, the game will congratulate you and display the number of attempts. If you run out of attempts, the game will reveal the correct number and end.
 
 ## Example
 
